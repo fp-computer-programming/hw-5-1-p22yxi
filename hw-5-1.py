@@ -2,10 +2,10 @@
 
 import random
 # Question 1
-print(random.randrange(30, 50, 1))
+print(random.randrange(31, 49, 1))
 
 # Question 2
-print(random.randrange(2, 75, 2))
+print(random.randrange(4, 75, 2))
 
 # Question 3
 print(random.randint(20, 30))
